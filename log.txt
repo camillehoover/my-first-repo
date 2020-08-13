@@ -1,0 +1,47 @@
+commit 15f7e9a714a390aac4cb826229e9dc424f3ec77a
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Thu Aug 13 12:55:57 2020 -0500
+
+    gitignore
+
+commit 85e7e7fbf63c1b8c5ed0bfab38d723c52d2964af
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Thu Aug 13 11:18:22 2020 -0500
+
+    added weather info
+
+commit 68b0dc496d23dffceb3a253640a777d2cd2bfb94
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Thu Aug 13 10:48:22 2020 -0500
+
+    added a third line to readme.txt
+
+commit 6035eaa5a9227167745416fe710110f7bf205d46
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Thu Aug 13 10:22:16 2020 -0500
+
+    added gitignore
+
+commit ca5b4516e61ba396b5eed0c991fa3ffebff190ea
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Thu Aug 13 10:02:41 2020 -0500
+
+    added gitignore
+
+commit 32f5351cffdb80806eed4551f1e76dc02b129a88
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Tue Aug 11 12:35:07 2020 -0500
+
+    fakefile and newfile2
+
+commit 15b3b2784d78faf30ecd633a7212330a37b8a543
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Tue Aug 11 12:27:13 2020 -0500
+
+    edited file1repo
+
+commit e8dccf22d97b2efdf2426ba0d1e0cec81593bf23
+Author: camillehoover <camille.hoover@huskers.unl.edu>
+Date:   Tue Aug 11 12:23:52 2020 -0500
+
+    added file1repo/newfiles
